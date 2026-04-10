@@ -1,2 +1,7 @@
 # NotesCLIApp
-Notes app in the terminal to understand data persistence
+
+#### notes CLI app works like this:
+    - add note
+    - list notes
+    - delete note(s)
+    - stores notes in .txt format
